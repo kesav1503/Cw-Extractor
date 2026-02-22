@@ -45,7 +45,7 @@ bc_url = (
 )
 bc_hdr = {"BCOV-POLICY": BCOV_POLICY}
 
-url="https://elearn.crwilladmin.com/api/v1/"
+url="https://elearn.crwilladmin.com/api/v10"
 
 info= {
  "deviceType":"android",
